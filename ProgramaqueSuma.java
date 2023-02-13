@@ -7,3 +7,6 @@ system.out.print(c);
 
 
 FJALKFAKL FLKANKFAK
+dadasd
+da
+dsa
